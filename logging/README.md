@@ -1,7 +1,7 @@
-#Background
+# Background
 I wrote a log package and wanted to see how it stacks up.
 
-#Results
+# Results
 Pretty tasty, to be honest.
 ```
 goos: linux

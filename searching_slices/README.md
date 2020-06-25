@@ -1,4 +1,4 @@
-#Background
+# Background
 I've seen a few places where to search for a string in an slice, a practice of joining the slice and 
 calling strings.Contains against it has been used.
 
@@ -19,7 +19,7 @@ join and contains operations, you'd be going through at least two iterations of 
 
 So the benchmarks here were written to check my bias.
 
-#Results:
+# Results:
 The results speak for themselves, and bear out the 4 loop operations, not to mention the additional
 conditional checks that are done in strings.
 
