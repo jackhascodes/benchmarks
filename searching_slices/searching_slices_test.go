@@ -1,4 +1,4 @@
-package sandbox
+package searching_slices
 
 import (
 	"strings"
